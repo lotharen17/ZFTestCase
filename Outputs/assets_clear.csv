@@ -1,0 +1,6 @@
+,asset_id,license_plate,maker,model,account_id,data_source,tank_capacity,maker_fixed
+0,362,GA-567-789,Renaut,R-1A,55,334455,100,Renault
+1,289,GA-123-456,Ford,F-2B,55,334456,90,Ford
+2,338,EU-234-567,Citroen,C-3C,55,334457,110,Citroen
+3,485,AB-345-678,Renaut,R-2A,58,334458,120,Renault
+4,409,CA-456-789,Ford,F-3B,48,334459,100,Ford
