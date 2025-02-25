@@ -8,3 +8,6 @@ Cleaned, de-issued data. Plus some analysis of this data: aggregations, visualis
 
 ## Outputs given here 
 All the expected and far-far beyond. Just read comments and see the results. 
+
+## Tools used 
+Jupyter Notebook, Tableau. Pure skills and some energy pills. It took 24+ hours of pure coding in a row. 
